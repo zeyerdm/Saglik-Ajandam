@@ -1,0 +1,6 @@
+{
+  "name": "Sağlık Ajandası",
+  "description": "Yapay zeka destekli kişisel sağlık günlüğü, tahlil analizi ve dinamik sağlık defterleri.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

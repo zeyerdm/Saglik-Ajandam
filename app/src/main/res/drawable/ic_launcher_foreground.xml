@@ -1,0 +1,27 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer rounded journal shield base -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M34,26 C30.68,26 28,28.68 28,32 L28,76 C28,79.32 30.68,82 34,82 L74,82 C77.32,82 80,79.32 80,76 L80,32 C80,28.68 77.32,26 74,26 Z" />
+    <!-- Journal spine accent -->
+    <path
+        android:fillColor="#E2E8F0"
+        android:pathData="M28,32 C28,28.68 30.68,26 34,26 L38,26 L38,82 L34,82 C30.68,82 28,79.32 28,76 Z" />
+    <!-- Medical Cross in emerald green -->
+    <path
+        android:fillColor="#059669"
+        android:pathData="M51,36 L57,36 L57,44 L65,44 L65,50 L57,50 L57,58 L51,58 L51,50 L43,50 L43,44 L51,44 Z" />
+    <!-- Heartbeat / Pulse wave line -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#0284C7"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M38,67 L46,67 L50,60 L54,73 L58,64 L62,67 L70,67" />
+</vector>
+
